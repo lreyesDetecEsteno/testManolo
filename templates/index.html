@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Subir Archivo</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <h1>Subir Audio/Video y JSON</h1>
+    <form action="{{ url_for('upload') }}" method="post" enctype="multipart/form-data">
+        <div>
+            <label for="media_file">Archivo de Audio/Video:</label>
+            <input type="file" name="media_file" id="media_file" required>
+        </div>
+        <div>
+            <label for="json_file">Archivo JSON:</label>
+            <input type="file" name="json_file" id="json_file" accept=".json" required>
+        </div>
+        <button type="submit">Subir</button>
+    </form>
+</body>
+</html>

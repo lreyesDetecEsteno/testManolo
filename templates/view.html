@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Visualización</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <style>
+        .word {
+            cursor: pointer;
+        }
+        .highlight {
+            background-color: #FFD700;
+        }
+        .speaker-block {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Reproductor y Transcripción</h1>
+    {% if media_url.endswith(('.mp3', '.wav')) %}
+        <audio id="mediaPlayer" controls>
+            <source src="{{ media_url }}" type="audio/mpeg">
+            Tu navegador no soporta el elemento de audio.
+        </audio>
+    {% else %}
+        <video id="mediaPlayer" controls width="600">
+            <source src="{{ media_url }}">
+            Tu navegador no soporta el elemento de video.
+        </video>
+    {% endif %}
+
+    <div id="transcription">
+        {% for block in blocks %}
+            <div class="speaker-block">
+                <p><strong>{{ block.speaker }}:</strong>
+                    {% for word in block.words %}
+                        <span class="word" data-start="{{ word.start_time }}" data-end="{{ word.end_time }}">{{ word.content }}</span>
+                        {% if not loop.last %}
+                            <!-- Añade un espacio entre palabras excepto después de la última palabra -->
+                            {{ ' ' }}
+                        {% endif %}
+                    {% endfor %}
+                </p>
+            </div>
+        {% endfor %}
+    </div>
+
+    <script>
+        const mediaPlayer = document.getElementById('mediaPlayer');
+        const words = document.querySelectorAll('.word');
+        let currentHighlighted = null;
+
+        // Añadir evento de clic a cada palabra
+        words.forEach(word => {
+            word.addEventListener('click', () => {
+                const startTime = parseFloat(word.getAttribute('data-start'));
+                mediaPlayer.currentTime = startTime;
+                mediaPlayer.play();
+            });
+        });
+
+        // Resaltar palabra actual
+        mediaPlayer.addEventListener('timeupdate', () => {
+            const currentTime = mediaPlayer.currentTime;
+            let currentWord = null;
+
+            words.forEach(word => {
+                const start = parseFloat(word.getAttribute('data-start'));
+                const end = parseFloat(word.getAttribute('data-end'));
+                if (currentTime >= start && currentTime < end) {
+                    currentWord = word;
+                }
+            });
+
+            // Remover resaltado anterior
+            if (currentHighlighted) {
+                currentHighlighted.classList.remove('highlight');
+            }
+
+            // Resaltar la palabra actual
+            if (currentWord) {
+                currentWord.classList.add('highlight');
+                currentHighlighted = currentWord;
+                // Opcional: scroll para mantener la palabra visible
+                currentWord.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
+        });
+    </script>
+</body>
+</html>

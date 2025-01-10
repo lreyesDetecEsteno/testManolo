@@ -1,0 +1,8187 @@
+[
+    {
+        "alternatives": [
+            {
+                "confidence": 0.57,
+                "content": "El",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 0.14,
+        "start_time": 0.05,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "relato",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 1.04,
+        "start_time": 0.14,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 1.04,
+        "is_eos": false,
+        "start_time": 1.04,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "a",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 1.61,
+        "start_time": 1.43,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "pesar",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 1.94,
+        "start_time": 1.61,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 2.06,
+        "start_time": 1.94,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 2.21,
+        "start_time": 2.06,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.97,
+                "content": "esa",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 2.45,
+        "start_time": 2.21,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "es",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 2.57,
+        "start_time": 2.45,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "su",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 2.69,
+        "start_time": 2.57,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "nueva",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 2.96,
+        "start_time": 2.69,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "carta",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 3.26,
+        "start_time": 2.96,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 3.38,
+        "start_time": 3.26,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "presentación",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 4.22,
+        "start_time": 3.38,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 4.22,
+        "is_eos": true,
+        "start_time": 4.22,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "son",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 4.52,
+        "start_time": 4.22,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "varias",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 4.85,
+        "start_time": 4.52,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "las",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 5.06,
+        "start_time": 4.88,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "felicitaciones",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 5.81,
+        "start_time": 5.06,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 5.96,
+        "start_time": 5.81,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "aún",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 6.35,
+        "start_time": 5.99,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "no",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 6.47,
+        "start_time": 6.35,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "llegan",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 6.8,
+        "start_time": 6.47,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "para",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 7.01,
+        "start_time": 6.8,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "Nicolás",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 7.37,
+        "start_time": 7.01,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Maduro",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 7.91,
+        "start_time": 7.37,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 7.91,
+        "is_eos": true,
+        "start_time": 7.91,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 8.12,
+        "start_time": 7.94,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 8.21,
+        "start_time": 8.12,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "lista",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 8.48,
+        "start_time": 8.21,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 8.57,
+        "start_time": 8.48,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "países",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 8.93,
+        "start_time": 8.57,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 9.02,
+        "start_time": 8.93,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "optó",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 9.26,
+        "start_time": 9.02,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "por",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 9.44,
+        "start_time": 9.26,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "no",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 9.59,
+        "start_time": 9.44,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "reconocer",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 10.1,
+        "start_time": 9.59,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "el",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 10.19,
+        "start_time": 10.1,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "resultado",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 10.7,
+        "start_time": 10.19,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 10.79,
+        "start_time": 10.7,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "las",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 10.97,
+        "start_time": 10.79,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "elecciones",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 11.39,
+        "start_time": 10.97,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "presidenciales",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 12.08,
+        "start_time": 11.39,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 12.2,
+        "start_time": 12.08,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Venezuela",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 12.77,
+        "start_time": 12.2,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "hasta",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 13.1,
+        "start_time": 12.77,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 13.31,
+        "start_time": 13.1,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.94,
+                "content": "este",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 13.67,
+        "start_time": 13.31,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "se",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 13.85,
+        "start_time": 13.67,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "pueda",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 14.21,
+        "start_time": 13.85,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "verificar",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 14.93,
+        "start_time": 14.21,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 14.93,
+        "is_eos": false,
+        "start_time": 14.93,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "está",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 15.32,
+        "start_time": 14.96,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Chile",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 15.74,
+        "start_time": 15.32,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 15.74,
+        "is_eos": true,
+        "start_time": 15.74,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Me",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 16.1,
+        "start_time": 15.95,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "siento",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 16.82,
+        "start_time": 16.1,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "obligado",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 17.75,
+        "start_time": 16.82,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "moralmente",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 19.94,
+        "start_time": 18.68,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "a",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 20.36,
+        "start_time": 19.97,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "exigir",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 21.32,
+        "start_time": 20.36,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "total",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 22.16,
+        "start_time": 21.53,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "transparencia",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 22.94,
+        "start_time": 22.16,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 23.06,
+        "start_time": 22.94,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "esta",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 23.21,
+        "start_time": 23.06,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "elección",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 23.69,
+        "start_time": 23.21,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "y",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 23.87,
+        "start_time": 23.72,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "por",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 23.99,
+        "start_time": 23.87,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "lo",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 24.08,
+        "start_time": 23.99,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "tanto",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 24.32,
+        "start_time": 24.08,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "creo",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 24.56,
+        "start_time": 24.32,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 25.1,
+        "start_time": 24.56,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "salir",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 25.79,
+        "start_time": 25.49,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "a",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 25.82,
+        "start_time": 25.79,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.78,
+                "content": "hacer",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 26.39,
+        "start_time": 25.82,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "felicitaciones",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 27.32,
+        "start_time": 26.39,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "es",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 27.62,
+        "start_time": 27.32,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "hoy",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 27.77,
+        "start_time": 27.62,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "día",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 28.13,
+        "start_time": 27.77,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "apresurado",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 29.06,
+        "start_time": 28.16,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 29.06,
+        "is_eos": true,
+        "start_time": 29.06,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "mientras",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 29.99,
+        "start_time": 29.6,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "no",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 30.17,
+        "start_time": 29.99,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "se",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 30.26,
+        "start_time": 30.17,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "entreguen",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 30.56,
+        "start_time": 30.26,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "las",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 30.68,
+        "start_time": 30.56,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "actas",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 30.89,
+        "start_time": 30.68,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 30.89,
+        "is_eos": false,
+        "start_time": 30.89,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "mientras",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 31.19,
+        "start_time": 30.89,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "no",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 31.28,
+        "start_time": 31.19,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "haya",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 31.55,
+        "start_time": 31.28,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "una",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 31.79,
+        "start_time": 31.55,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "completa",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 32.12,
+        "start_time": 31.79,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "transparencia",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 32.75,
+        "start_time": 32.12,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 32.75,
+        "is_eos": false,
+        "start_time": 32.75,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "nosotros",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 33.05,
+        "start_time": 32.75,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "por",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 33.14,
+        "start_time": 33.05,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "lo",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 33.2,
+        "start_time": 33.14,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "menos",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 33.38,
+        "start_time": 33.2,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "nos",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 33.47,
+        "start_time": 33.38,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "abstenemos",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 33.83,
+        "start_time": 33.47,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 33.83,
+        "is_eos": true,
+        "start_time": 33.83,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Fue",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 34.76,
+        "start_time": 34.49,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "cosa",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 35.06,
+        "start_time": 34.76,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 35.18,
+        "start_time": 35.06,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "minutos",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 35.63,
+        "start_time": 35.18,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "para",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 35.9,
+        "start_time": 35.63,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 36.08,
+        "start_time": 35.9,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "parlamentarios",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 36.77,
+        "start_time": 36.08,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "del",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 36.92,
+        "start_time": 36.77,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Partido",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 37.34,
+        "start_time": 36.92,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Comunista",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 37.91,
+        "start_time": 37.34,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "defendieran",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 38.48,
+        "start_time": 37.91,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "el",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 38.6,
+        "start_time": 38.48,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "triunfo",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 38.99,
+        "start_time": 38.6,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "del",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 39.2,
+        "start_time": 38.99,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "régimen",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 39.59,
+        "start_time": 39.2,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 39.71,
+        "start_time": 39.59,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Maduro",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 40.28,
+        "start_time": 39.71,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 40.28,
+        "is_eos": false,
+        "start_time": 40.28,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "entre",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 40.67,
+        "start_time": 40.31,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "ellos",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 41.03,
+        "start_time": 40.67,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Boris",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 41.39,
+        "start_time": 41.06,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Barrera",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 41.84,
+        "start_time": 41.39,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 41.84,
+        "is_eos": false,
+        "start_time": 41.84,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "invitado",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 42.47,
+        "start_time": 41.87,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "como",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 42.77,
+        "start_time": 42.47,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "observador",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 43.34,
+        "start_time": 42.77,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "por",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 43.52,
+        "start_time": 43.34,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "el",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 43.64,
+        "start_time": 43.52,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Consejo",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 43.97,
+        "start_time": 43.64,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Nacional",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 44.39,
+        "start_time": 43.97,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Electoral",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 44.96,
+        "start_time": 44.39,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 45.11,
+        "start_time": 44.96,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Venezuela",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 45.86,
+        "start_time": 45.11,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 45.86,
+        "is_eos": true,
+        "start_time": 45.86,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "A",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 46.16,
+        "start_time": 46.01,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.84,
+                "content": "mí",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 46.28,
+        "start_time": 46.16,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "me",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 46.4,
+        "start_time": 46.28,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "preocupa",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 46.88,
+        "start_time": 46.4,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 46.88,
+        "is_eos": true,
+        "start_time": 46.88,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "yo",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 47.12,
+        "start_time": 46.94,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.79,
+                "content": "he",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 47.18,
+        "start_time": 47.12,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.79,
+                "content": "esperado",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 47.57,
+        "start_time": 47.18,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.78,
+                "content": "que",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 47.78,
+        "start_time": 47.57,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.95,
+                "content": "que",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 47.9,
+        "start_time": 47.81,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "lo",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 48.17,
+        "start_time": 47.9,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 48.32,
+        "start_time": 48.2,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "lo",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 48.47,
+        "start_time": 48.32,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.97,
+                "content": "reconocieran",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 49.19,
+        "start_time": 48.47,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 49.19,
+        "is_eos": true,
+        "start_time": 49.19,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "y",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 49.28,
+        "start_time": 49.19,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "cuando",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 49.61,
+        "start_time": 49.28,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "uno",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 49.82,
+        "start_time": 49.61,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "dice",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 50.12,
+        "start_time": 49.82,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 50.24,
+        "start_time": 50.12,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 50.39,
+        "start_time": 50.24,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "no",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 50.78,
+        "start_time": 50.39,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "reconoce",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 51.47,
+        "start_time": 50.78,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "a",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 51.59,
+        "start_time": 51.47,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 51.68,
+        "start_time": 51.59,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "persona",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 52.07,
+        "start_time": 51.68,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "que",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 52.55,
+        "start_time": 52.07,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 53.06,
+        "start_time": 52.58,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 53.21,
+        "start_time": 53.09,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "salió",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 53.45,
+        "start_time": 53.21,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "electa",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 53.78,
+        "start_time": 53.45,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 53.78,
+        "is_eos": false,
+        "start_time": 53.78,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "entonces",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 54.38,
+        "start_time": 53.78,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "significa",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 54.95,
+        "start_time": 54.38,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "también",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 55.37,
+        "start_time": 54.95,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 55.49,
+        "start_time": 55.37,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 55.58,
+        "start_time": 55.49,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "no",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 55.73,
+        "start_time": 55.58,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "está",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 55.91,
+        "start_time": 55.73,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 55.97,
+        "start_time": 55.91,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "acuerdo",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 56.3,
+        "start_time": 55.97,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "con",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 56.48,
+        "start_time": 56.3,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 56.6,
+        "start_time": 56.48,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "soberanía",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 57.2,
+        "start_time": 56.6,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "del",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 57.68,
+        "start_time": 57.2,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 57.89,
+        "start_time": 57.71,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 58.01,
+        "start_time": 57.89,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "gente",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 58.34,
+        "start_time": 58.01,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 58.46,
+        "start_time": 58.34,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "lo",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 58.64,
+        "start_time": 58.46,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 58.76,
+        "start_time": 58.67,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "lo",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 58.88,
+        "start_time": 58.76,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.98,
+                "content": "eligió",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 59.15,
+        "start_time": 58.88,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.4,
+                "content": "en",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 59.21,
+        "start_time": 59.15,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "end_time": 59.69,
+        "start_time": 59.45,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S3"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 59.69,
+        "is_eos": true,
+        "start_time": 59.69,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Política",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 60.26,
+        "start_time": 59.69,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "internacional",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 61.04,
+        "start_time": 60.26,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "del",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 61.25,
+        "start_time": 61.04,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "país",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 61.55,
+        "start_time": 61.25,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 61.67,
+        "start_time": 61.55,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "dirige",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 62.03,
+        "start_time": 61.67,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "el",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 62.12,
+        "start_time": 62.03,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "presidente",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 62.48,
+        "start_time": 62.12,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 62.54,
+        "start_time": 62.48,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 62.63,
+        "start_time": 62.54,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "República",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 63.32,
+        "start_time": 62.63,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "y",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 63.83,
+        "start_time": 63.62,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "eso",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 64.13,
+        "start_time": 63.83,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "todos",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 64.37,
+        "start_time": 64.16,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "los",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 64.49,
+        "start_time": 64.37,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "partidos",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 64.88,
+        "start_time": 64.49,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "lo",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 65.0,
+        "start_time": 64.88,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "entienden",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 65.45,
+        "start_time": 65.0,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.92,
+                "content": "como",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 65.69,
+        "start_time": 65.51,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.86,
+                "content": "voy",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 65.77,
+        "start_time": 65.69,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.86,
+                "content": "a",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "end_time": 65.83,
+        "start_time": 65.77,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S2"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 65.83,
+        "is_eos": true,
+        "start_time": 65.83,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.43,
+                "content": "Necesitar",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 66.34,
+        "start_time": 65.95,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.32,
+                "content": "de",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 66.4,
+        "start_time": 66.34,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.94,
+                "content": "un",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 66.49,
+        "start_time": 66.4,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "tema",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 66.79,
+        "start_time": 66.49,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.98,
+                "content": "de",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 67.18,
+        "start_time": 66.79,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "que",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 67.45,
+        "start_time": 67.21,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "le",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 67.6,
+        "start_time": 67.45,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "toca",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 67.9,
+        "start_time": 67.6,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 67.99,
+        "start_time": 67.9,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "este",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 68.2,
+        "start_time": 67.99,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "rato",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 68.56,
+        "start_time": 68.2,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "pronunciarse",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 69.07,
+        "start_time": 68.56,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.97,
+                "content": "a",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 69.13,
+        "start_time": 69.07,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.87,
+                "content": "los",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 69.25,
+        "start_time": 69.13,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.83,
+                "content": "venezolanos",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 69.7,
+        "start_time": 69.25,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 69.7,
+        "is_eos": false,
+        "start_time": 69.7,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.82,
+                "content": "pero",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 69.88,
+        "start_time": 69.7,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 69.88,
+        "is_eos": true,
+        "start_time": 69.88,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Las",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 70.51,
+        "start_time": 70.18,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "críticas",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 71.02,
+        "start_time": 70.51,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "no",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 71.23,
+        "start_time": 71.02,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "tardaron",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 71.68,
+        "start_time": 71.26,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 71.77,
+        "start_time": 71.68,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "llegar",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 72.07,
+        "start_time": 71.77,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "desde",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 72.28,
+        "start_time": 72.07,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 72.4,
+        "start_time": 72.28,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "oposición",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 73.09,
+        "start_time": 72.4,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 73.09,
+        "is_eos": true,
+        "start_time": 73.09,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Con",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 73.3,
+        "start_time": 73.12,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "todo",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 73.48,
+        "start_time": 73.3,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "respeto",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 73.9,
+        "start_time": 73.48,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 73.9,
+        "is_eos": false,
+        "start_time": 73.9,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "señor",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 74.14,
+        "start_time": 73.9,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Presidente",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 74.95,
+        "start_time": 74.14,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 74.95,
+        "is_eos": false,
+        "start_time": 74.95,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "el",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 75.58,
+        "start_time": 75.31,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Partido",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 75.91,
+        "start_time": 75.58,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Comunista",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 76.54,
+        "start_time": 75.91,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "ha",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 76.84,
+        "start_time": 76.54,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "avalado",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 77.53,
+        "start_time": 76.87,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "todo",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 77.89,
+        "start_time": 77.53,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "lo",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 78.01,
+        "start_time": 77.89,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 78.1,
+        "start_time": 78.01,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "está",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 78.34,
+        "start_time": 78.1,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "sucediendo",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 79.09,
+        "start_time": 78.34,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 79.3,
+        "start_time": 79.09,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Venezuela",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 80.08,
+        "start_time": 79.3,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "y",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 80.71,
+        "start_time": 80.47,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "usted",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 80.95,
+        "start_time": 80.71,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "los",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 81.1,
+        "start_time": 80.95,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "tiene",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 81.46,
+        "start_time": 81.1,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 81.61,
+        "start_time": 81.46,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "su",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 81.79,
+        "start_time": 81.61,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "gobierno",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 82.54,
+        "start_time": 81.79,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 82.54,
+        "is_eos": true,
+        "start_time": 82.54,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "por",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 83.2,
+        "start_time": 82.81,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "favor",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 83.59,
+        "start_time": 83.2,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "explíquele",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 84.22,
+        "start_time": 83.62,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "al",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 84.46,
+        "start_time": 84.22,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "país",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 85.03,
+        "start_time": 84.46,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "qué",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 85.36,
+        "start_time": 85.06,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "va",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 85.51,
+        "start_time": 85.36,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.98,
+                "content": "a",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 85.57,
+        "start_time": 85.51,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "hacer",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 85.84,
+        "start_time": 85.57,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "usted",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 86.47,
+        "start_time": 85.87,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "con",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 86.92,
+        "start_time": 86.59,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "el",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 87.01,
+        "start_time": 86.92,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Partido",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 87.37,
+        "start_time": 87.01,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Comunista",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "end_time": 88.27,
+        "start_time": 87.37,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S5"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 88.27,
+        "is_eos": true,
+        "start_time": 88.27,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Sin",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 88.75,
+        "start_time": 88.45,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "embargo",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 89.14,
+        "start_time": 88.75,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 89.14,
+        "is_eos": false,
+        "start_time": 89.14,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "no",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 89.29,
+        "start_time": 89.14,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "fue",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 89.5,
+        "start_time": 89.29,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "lo",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 89.59,
+        "start_time": 89.5,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.98,
+                "content": "más",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 89.74,
+        "start_time": 89.59,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "llamativo",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 90.31,
+        "start_time": 89.74,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 90.31,
+        "is_eos": true,
+        "start_time": 90.31,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "voces",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 90.79,
+        "start_time": 90.34,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "del",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 91.0,
+        "start_time": 90.82,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "socialismo",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 91.54,
+        "start_time": 91.0,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "democrático",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 92.26,
+        "start_time": 91.54,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "arremetieron",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 92.95,
+        "start_time": 92.26,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 93.07,
+        "start_time": 92.95,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "duros",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 93.4,
+        "start_time": 93.07,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "términos",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 93.88,
+        "start_time": 93.4,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "contra",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 94.27,
+        "start_time": 93.91,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "sus",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 94.54,
+        "start_time": 94.27,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "socios",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 94.99,
+        "start_time": 94.54,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 95.17,
+        "start_time": 94.99,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "coalición",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 95.86,
+        "start_time": 95.17,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 95.86,
+        "is_eos": false,
+        "start_time": 95.86,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "quienes",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 96.25,
+        "start_time": 95.89,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 96.25,
+        "is_eos": true,
+        "start_time": 96.25,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Hoy",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "end_time": 96.43,
+        "start_time": 96.25,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "día",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "end_time": 96.97,
+        "start_time": 96.43,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "desde",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "end_time": 97.48,
+        "start_time": 97.0,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Chile",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "end_time": 98.29,
+        "start_time": 97.48,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "avalan",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "end_time": 99.52,
+        "start_time": 98.32,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "ese",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "end_time": 100.0,
+        "start_time": 99.55,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "fraude",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "end_time": 100.42,
+        "start_time": 100.0,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "electoral",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "end_time": 101.35,
+        "start_time": 100.45,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 101.35,
+        "is_eos": false,
+        "start_time": 101.35,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "no",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "end_time": 102.04,
+        "start_time": 101.5,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "merecen",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "end_time": 102.61,
+        "start_time": 102.04,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "estar",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "end_time": 102.91,
+        "start_time": 102.61,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "end_time": 103.03,
+        "start_time": 102.91,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "nuestra",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "end_time": 103.33,
+        "start_time": 103.03,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "misma",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "end_time": 103.63,
+        "start_time": 103.33,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "coalición",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "end_time": 104.23,
+        "start_time": 103.63,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S6"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 104.23,
+        "is_eos": true,
+        "start_time": 104.23,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Es",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 104.41,
+        "start_time": 104.26,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "legítimo",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 104.8,
+        "start_time": 104.41,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "querer",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 105.07,
+        "start_time": 104.8,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "querer",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 105.34,
+        "start_time": 105.1,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "a",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 105.4,
+        "start_time": 105.34,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Maduro",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 106.06,
+        "start_time": 105.4,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 106.06,
+        "is_eos": false,
+        "start_time": 106.06,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "pero",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 106.42,
+        "start_time": 106.06,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "yo",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 106.63,
+        "start_time": 106.42,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "no",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 106.75,
+        "start_time": 106.63,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "quiero",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 107.11,
+        "start_time": 106.75,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "hacer",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 107.83,
+        "start_time": 107.11,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "coalición",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 109.03,
+        "start_time": 108.49,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "con",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 109.21,
+        "start_time": 109.03,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.48,
+                "content": "alguien",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 109.6,
+        "start_time": 109.21,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 109.6,
+        "is_eos": false,
+        "start_time": 109.6,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Lo",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 109.81,
+        "start_time": 109.63,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "digo",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 109.99,
+        "start_time": 109.81,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "así",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 110.26,
+        "start_time": 109.99,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 110.26,
+        "is_eos": true,
+        "start_time": 110.26,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "no",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 110.5,
+        "start_time": 110.29,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 110.5,
+        "is_eos": false,
+        "start_time": 110.5,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "no",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 110.62,
+        "start_time": 110.5,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "me",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 110.77,
+        "start_time": 110.65,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.97,
+                "content": "incomoda",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 111.1,
+        "start_time": 110.77,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "una",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 111.25,
+        "start_time": 111.1,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "coalición",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 111.58,
+        "start_time": 111.25,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "con",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 111.73,
+        "start_time": 111.58,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "alguien",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 111.97,
+        "start_time": 111.73,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 112.06,
+        "start_time": 111.97,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "cree",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 112.3,
+        "start_time": 112.06,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 112.36,
+        "start_time": 112.3,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "lo",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 112.48,
+        "start_time": 112.36,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 112.57,
+        "start_time": 112.48,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Maduro",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 112.84,
+        "start_time": 112.57,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.97,
+                "content": "está",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 113.02,
+        "start_time": 112.84,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "bien",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 113.17,
+        "start_time": 113.02,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "hecho",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "end_time": 113.47,
+        "start_time": 113.17,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S7"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 113.47,
+        "is_eos": true,
+        "start_time": 113.47,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Ni",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 113.68,
+        "start_time": 113.5,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Pinochet",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 114.28,
+        "start_time": 113.68,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "llegó",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 114.7,
+        "start_time": 114.31,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "a",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 114.76,
+        "start_time": 114.7,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "tanto",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 115.12,
+        "start_time": 114.79,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "cuando",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 115.36,
+        "start_time": 115.12,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "había",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 115.51,
+        "start_time": 115.36,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "perdido",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 116.11,
+        "start_time": 115.51,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "el",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 116.35,
+        "start_time": 116.11,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "apoyo",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 116.65,
+        "start_time": 116.35,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "electoral",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 117.16,
+        "start_time": 116.65,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 117.28,
+        "start_time": 117.16,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "las",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 117.46,
+        "start_time": 117.28,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "urnas",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 118.0,
+        "start_time": 117.46,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Y",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 118.81,
+        "start_time": 118.33,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "es",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 119.02,
+        "start_time": 118.81,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "una",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 119.53,
+        "start_time": 119.02,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.98,
+                "content": "lástima",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 119.95,
+        "start_time": 119.53,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 120.31,
+        "start_time": 119.95,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "algunos",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 121.03,
+        "start_time": 120.34,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "socios",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 121.36,
+        "start_time": 121.03,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 121.48,
+        "start_time": 121.36,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "coalición",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 122.08,
+        "start_time": 121.48,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "no",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 122.41,
+        "start_time": 122.08,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "lo",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 122.56,
+        "start_time": 122.41,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "vean",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 122.8,
+        "start_time": 122.56,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "así",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "end_time": 123.19,
+        "start_time": 122.8,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S8"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 123.19,
+        "is_eos": true,
+        "start_time": 123.19,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Arremetida",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 124.27,
+        "start_time": 123.55,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 124.42,
+        "start_time": 124.27,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "pone",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 124.66,
+        "start_time": 124.42,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 124.75,
+        "start_time": 124.66,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "duda",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 125.05,
+        "start_time": 124.75,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 125.2,
+        "start_time": 125.05,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "convivencia",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 125.8,
+        "start_time": 125.2,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "con",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 125.98,
+        "start_time": 125.8,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "el",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 126.13,
+        "start_time": 125.98,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "PC",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 126.49,
+        "start_time": 126.13,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 126.7,
+        "start_time": 126.52,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "el",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 126.79,
+        "start_time": 126.7,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "oficialismo",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 127.66,
+        "start_time": 126.79,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 127.66,
+        "is_eos": true,
+        "start_time": 127.66,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Resulta",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 128.14,
+        "start_time": 127.69,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "incómodo",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 128.59,
+        "start_time": 128.14,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 128.59,
+        "is_eos": false,
+        "start_time": 128.59,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "por",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 128.77,
+        "start_time": 128.59,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "cierto",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 129.4,
+        "start_time": 128.77,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 129.4,
+        "is_eos": false,
+        "start_time": 129.4,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "formar",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 129.85,
+        "start_time": 129.4,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "parte",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 130.48,
+        "start_time": 129.85,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 130.96,
+        "start_time": 130.48,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "una",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 131.29,
+        "start_time": 130.96,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "coalición",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 131.9,
+        "start_time": 131.33,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.98,
+                "content": "donde",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 132.5,
+        "start_time": 131.9,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "el",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 132.71,
+        "start_time": 132.53,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Partido",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 133.04,
+        "start_time": 132.71,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Comunista",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 133.85,
+        "start_time": 133.04,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.93,
+                "content": "e",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 134.48,
+        "start_time": 134.0,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "insiste",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 135.14,
+        "start_time": 134.48,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "o",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 135.32,
+        "start_time": 135.14,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "algunos",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 135.86,
+        "start_time": 135.32,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "personeros",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 136.46,
+        "start_time": 135.86,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "del",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 136.61,
+        "start_time": 136.46,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Partido",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 136.91,
+        "start_time": 136.61,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Comunista",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 137.78,
+        "start_time": 136.91,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "insisten",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 138.71,
+        "start_time": 137.81,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.46,
+                "content": "eh",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 139.37,
+        "start_time": 138.74,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 139.58,
+        "start_time": 139.37,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "aquello",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "end_time": 140.09,
+        "start_time": 139.58,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S9"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 140.09,
+        "is_eos": true,
+        "start_time": 140.09,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.95,
+                "content": "Bueno",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 140.48,
+        "start_time": 140.12,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 140.48,
+        "is_eos": false,
+        "start_time": 140.48,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.69,
+                "content": "si",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 140.66,
+        "start_time": 140.48,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "hay",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 141.11,
+        "start_time": 140.66,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "alguien",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 141.41,
+        "start_time": 141.11,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 141.5,
+        "start_time": 141.41,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 141.59,
+        "start_time": 141.5,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "coalición",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 141.95,
+        "start_time": 141.59,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 142.04,
+        "start_time": 141.95,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.69,
+                "content": "está",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 142.22,
+        "start_time": 142.04,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "incómodo",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 142.64,
+        "start_time": 142.22,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "se",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 142.73,
+        "start_time": 142.64,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "puede",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 142.91,
+        "start_time": 142.73,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "ir",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 143.03,
+        "start_time": 142.91,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 143.12,
+        "start_time": 143.03,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 143.21,
+        "start_time": 143.12,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "coalición",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 143.57,
+        "start_time": 143.21,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 143.57,
+        "is_eos": false,
+        "start_time": 143.57,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "no",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 143.63,
+        "start_time": 143.57,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.92,
+                "content": "hay",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 143.69,
+        "start_time": 143.63,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "ningún",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 143.9,
+        "start_time": 143.69,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "problema",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "end_time": 144.32,
+        "start_time": 143.9,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S10"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 144.32,
+        "is_eos": true,
+        "start_time": 144.32,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Cuestionamientos",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 145.7,
+        "start_time": 145.01,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 145.79,
+        "start_time": 145.7,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "según",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 146.06,
+        "start_time": 145.82,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 146.18,
+        "start_time": 146.06,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "diputada",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 146.66,
+        "start_time": 146.18,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "comunista",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 147.2,
+        "start_time": 146.66,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Carmen",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 147.62,
+        "start_time": 147.2,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Hertz",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 147.98,
+        "start_time": 147.68,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 147.98,
+        "is_eos": false,
+        "start_time": 147.98,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "serían",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 148.67,
+        "start_time": 148.1,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "un",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 148.91,
+        "start_time": 148.67,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "intento",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 149.39,
+        "start_time": 148.91,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 149.54,
+        "start_time": 149.39,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "proscripción",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 150.26,
+        "start_time": 149.54,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "desde",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 150.53,
+        "start_time": 150.26,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "sectores",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 151.07,
+        "start_time": 150.53,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "autodenominados",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 152.15,
+        "start_time": 151.07,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "democráticos",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 153.05,
+        "start_time": 152.15,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 153.32,
+        "start_time": 153.05,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "produce",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 154.01,
+        "start_time": 153.32,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "asco",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 154.7,
+        "start_time": 154.04,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 154.7,
+        "is_eos": true,
+        "start_time": 154.7,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.92,
+                "content": "Entiendo",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 155.09,
+        "start_time": 154.73,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 155.18,
+        "start_time": 155.09,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "cada",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 155.36,
+        "start_time": 155.18,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "partido",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 155.72,
+        "start_time": 155.36,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "define",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 156.08,
+        "start_time": 155.72,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "si",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 156.23,
+        "start_time": 156.11,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.98,
+                "content": "está",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 156.41,
+        "start_time": 156.23,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.98,
+                "content": "o",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 156.47,
+        "start_time": 156.41,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "no",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 156.59,
+        "start_time": 156.47,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "está",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 156.8,
+        "start_time": 156.59,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "en",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 156.92,
+        "start_time": 156.8,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "otro",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 157.22,
+        "start_time": 156.92,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "partido",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 157.58,
+        "start_time": 157.22,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "por",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 157.7,
+        "start_time": 157.58,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "uno",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 157.85,
+        "start_time": 157.7,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 157.85,
+        "is_eos": true,
+        "start_time": 157.85,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "cada",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 158.21,
+        "start_time": 157.88,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "partido",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 158.72,
+        "start_time": 158.21,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "define",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 159.29,
+        "start_time": 158.72,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "su",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 159.71,
+        "start_time": 159.32,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "pertenencia",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 160.46,
+        "start_time": 159.71,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "y",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 160.67,
+        "start_time": 160.49,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "no",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 160.82,
+        "start_time": 160.67,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "hay",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 161.0,
+        "start_time": 160.82,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "un",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 161.18,
+        "start_time": 161.0,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "partido",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 161.63,
+        "start_time": 161.18,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "ni",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 161.78,
+        "start_time": 161.63,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "una",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 161.93,
+        "start_time": 161.78,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "persona",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 162.29,
+        "start_time": 161.93,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "encargada",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 162.71,
+        "start_time": 162.29,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 162.77,
+        "start_time": 162.71,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "los",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 162.92,
+        "start_time": 162.77,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "otros",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "end_time": 163.25,
+        "start_time": 162.92,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S4"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 163.25,
+        "is_eos": true,
+        "start_time": 163.25,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.8,
+                "content": "Nada",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 163.46,
+        "start_time": 163.28,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.92,
+                "content": "nuevo",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 163.76,
+        "start_time": 163.46,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 163.76,
+        "is_eos": true,
+        "start_time": 163.76,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.97,
+                "content": "esto",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 164.03,
+        "start_time": 163.79,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "lo",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 164.3,
+        "start_time": 164.03,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "hemos",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 164.48,
+        "start_time": 164.3,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "tenido",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 164.75,
+        "start_time": 164.48,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 164.84,
+        "start_time": 164.75,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "otros",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 165.08,
+        "start_time": 164.84,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "momentos",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 165.47,
+        "start_time": 165.08,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 165.56,
+        "start_time": 165.47,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 165.65,
+        "start_time": 165.56,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "historia",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 166.13,
+        "start_time": 165.65,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "y",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 166.28,
+        "start_time": 166.13,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "vamos",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 166.55,
+        "start_time": 166.28,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "a",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 166.64,
+        "start_time": 166.55,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "seguir",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 167.24,
+        "start_time": 166.64,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "enfrentando",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 168.41,
+        "start_time": 167.81,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "probablemente",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 168.83,
+        "start_time": 168.41,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "distintas",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 169.28,
+        "start_time": 168.86,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "diferencias",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 169.88,
+        "start_time": 169.28,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 169.97,
+        "start_time": 169.88,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "este",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 170.15,
+        "start_time": 169.97,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "plano",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 170.6,
+        "start_time": 170.15,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 170.6,
+        "is_eos": true,
+        "start_time": 170.6,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "pero",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 170.93,
+        "start_time": 170.6,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 171.08,
+        "start_time": 170.93,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "posición",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 171.86,
+        "start_time": 171.08,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "del",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 172.13,
+        "start_time": 171.86,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Gobierno",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 172.55,
+        "start_time": 172.13,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 172.67,
+        "start_time": 172.55,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Chile",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 173.09,
+        "start_time": 172.67,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "como",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 173.39,
+        "start_time": 173.09,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "política",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 173.96,
+        "start_time": 173.39,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 174.05,
+        "start_time": 173.96,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Estado",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 174.8,
+        "start_time": 174.05,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "es",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 175.04,
+        "start_time": 174.8,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 175.13,
+        "start_time": 175.04,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 175.25,
+        "start_time": 175.16,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "ha",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 175.31,
+        "start_time": 175.25,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "fijado",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 175.55,
+        "start_time": 175.31,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "el",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 175.64,
+        "start_time": 175.55,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "presidente",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "end_time": 176.3,
+        "start_time": 175.64,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S11"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 176.3,
+        "is_eos": true,
+        "start_time": 176.3,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "A",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 176.78,
+        "start_time": 176.6,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "través",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 177.08,
+        "start_time": 176.78,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 177.17,
+        "start_time": 177.08,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "un",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 177.35,
+        "start_time": 177.17,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "comunicado",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 177.92,
+        "start_time": 177.35,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.8,
+                "content": "del",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 178.07,
+        "start_time": 177.92,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "PC",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 178.31,
+        "start_time": 178.07,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 178.31,
+        "is_eos": false,
+        "start_time": 178.31,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "señaló",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 178.76,
+        "start_time": 178.31,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 178.85,
+        "start_time": 178.76,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "tienen",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 179.15,
+        "start_time": 178.85,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 179.3,
+        "start_time": 179.15,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "certeza",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 179.78,
+        "start_time": 179.3,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 179.9,
+        "start_time": 179.78,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 180.08,
+        "start_time": 179.9,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "institucionalidad",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 181.04,
+        "start_time": 180.08,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "electoral",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 181.49,
+        "start_time": 181.04,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "venezolana",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 182.12,
+        "start_time": 181.52,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.94,
+                "content": "transparentará",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 182.99,
+        "start_time": 182.15,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "los",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 183.17,
+        "start_time": 182.99,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "mecanismos",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 183.8,
+        "start_time": 183.17,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "y",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 183.95,
+        "start_time": 183.8,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "procedimientos",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 184.76,
+        "start_time": 183.95,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 184.91,
+        "start_time": 184.76,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "validan",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 185.36,
+        "start_time": 184.91,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "el",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 185.48,
+        "start_time": 185.36,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "proceso",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 186.08,
+        "start_time": 185.48,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.83,
+                "content": "refrendado",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 186.83,
+        "start_time": 186.08,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 186.83,
+        "is_eos": false,
+        "start_time": 186.83,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "según",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 187.1,
+        "start_time": 186.83,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "dicen",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 187.46,
+        "start_time": 187.13,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 187.46,
+        "is_eos": false,
+        "start_time": 187.46,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "por",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 187.64,
+        "start_time": 187.46,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.99,
+                "content": "una",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 187.82,
+        "start_time": 187.64,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "masiva",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 188.24,
+        "start_time": 187.82,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "presencia",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 188.72,
+        "start_time": 188.24,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "de",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 188.84,
+        "start_time": 188.72,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "veedores",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 189.32,
+        "start_time": 188.87,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "internacionales",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 190.28,
+        "start_time": 189.32,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 190.28,
+        "is_eos": true,
+        "start_time": 190.28,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "nueva",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 190.67,
+        "start_time": 190.31,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "polémica",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 191.12,
+        "start_time": 190.67,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ",",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 191.12,
+        "is_eos": false,
+        "start_time": 191.12,
+        "type": "punctuation"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "esta",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 191.3,
+        "start_time": 191.12,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "vez",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 191.63,
+        "start_time": 191.3,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "por",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 191.9,
+        "start_time": 191.63,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "las",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 192.02,
+        "start_time": 191.9,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "cuestionadas",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 192.71,
+        "start_time": 192.02,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "elecciones",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 193.34,
+        "start_time": 192.71,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "en",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 193.46,
+        "start_time": 193.34,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "Venezuela",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 194.09,
+        "start_time": 193.46,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "que",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 194.36,
+        "start_time": 194.12,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "elevan",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 194.78,
+        "start_time": 194.39,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "al",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 194.96,
+        "start_time": 194.78,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "máximo",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 195.38,
+        "start_time": 194.96,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "la",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 195.53,
+        "start_time": 195.38,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "tensión",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 196.1,
+        "start_time": 195.53,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "entre",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 196.37,
+        "start_time": 196.1,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "los",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 196.52,
+        "start_time": 196.37,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "partidos",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 196.94,
+        "start_time": 196.52,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 0.96,
+                "content": "de",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 197.06,
+        "start_time": 196.94,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": "gobierno",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "end_time": 197.78,
+        "start_time": 197.06,
+        "type": "word"
+    },
+    {
+        "alternatives": [
+            {
+                "confidence": 1.0,
+                "content": ".",
+                "language": "es",
+                "speaker": "S1"
+            }
+        ],
+        "attaches_to": "previous",
+        "end_time": 197.78,
+        "is_eos": true,
+        "start_time": 197.78,
+        "type": "punctuation"
+    }
+]
