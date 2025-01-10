@@ -13,7 +13,19 @@ Esta aplicación web desarrollada con Flask permite subir archivos de audio o vi
 
 ## Estructura del Proyecto
 
-project/ ├── app.py ├── templates/ │ ├── index.html │ └── view.html ├── static/ │ ├── css/ │ │ └── styles.css │ └── uploads/ │ ├── audio_video_files/ │ └── json_files/ ├── requirements.txt └── README.md
+project/
+├── app.py
+├── templates/
+│   ├── index.html
+│   └── view.html
+├── static/
+│   ├── css/
+│   │   └── styles.css
+│   └── uploads/
+│       ├── audio_video_files/
+│       └── json_files/
+├── requirements.txt
+└── README.md
 
 
 ## Instalación
@@ -28,8 +40,8 @@ project/ ├── app.py ├── templates/ │ ├── index.html │ └�
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
-   cd nombre_del_repositorio
+   git clone https://github.com/lreyesDetecEsteno/testManolo
+   cd testManolo
 
 
 2. **Crear el entorno con Conda:**
