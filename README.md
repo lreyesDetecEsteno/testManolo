@@ -1,20 +1,20 @@
-\# Audio/Video Transcription Viewer
+# Audio/Video Transcription Viewer
 
-\## Descripción
+## Descripción
 
 Esta aplicación web desarrollada con Flask permite subir archivos de audio o video en múltiples formatos junto con un archivo JSON que contiene la transcripción de las palabras, incluyendo información como el hablante, el inicio y fin de cada palabra. La transcripción se muestra sincronizada con el audio/video, permitiendo interactuar con las palabras para controlar la reproducción y resaltar la palabra actual.
 
-\## Características
+## Características
 
-\- \*\*Subida de archivos:\*\* Soporta múltiples formatos de audio y video.
+- **Subida de archivos:** Soporta múltiples formatos de audio y video.
 
-\- \*\*Sincronización de transcripción:\*\* Las palabras se resaltan en tiempo real según la reproducción.
+- **Sincronización de transcripción:** Las palabras se resaltan en tiempo real según la reproducción.
 
-\- \*\*Interacción con la transcripción:\*\* Al hacer clic en una palabra, el reproductor se posiciona en el tiempo correspondiente.
+- **Interacción con la transcripción:** Al hacer clic en una palabra, el reproductor se posiciona en el tiempo correspondiente.
 
-\- \*\*Soporte para múltiples hablantes:\*\* Crea bloques separados para cada aparición de un hablante, incluyendo "Speaker Unknown".
+- **Soporte para múltiples hablantes:** Crea bloques separados para cada aparición de un hablante, incluyendo "Speaker Unknown".
 
-\## Estructura del Proyecto
+## Estructura del Proyecto
 
 project/
 
@@ -22,182 +22,187 @@ project/
 
 ├── templates/
 
-│ ├── index.html
+│   ├── index.html
 
-│ └── view.html
+│   └── view.html
 
 ├── static/
 
-│ ├── css/
+│   ├── css/
 
-│ │ └── styles.css
+│   │   └── styles.css
 
-│ └── uploads/
+│   └── uploads/
 
-│ ├── audio\_video\_files/
+│       ├── audio_video_files/
 
-│ └── json\_files/
+│       └── json_files/
 
 ├── requirements.txt
 
 └── README.md
 
-\## Instalación
+## Instalación
 
-\### Requisitos
+### Requisitos
 
-\- \[Conda\](https://docs.conda.io/en/latest/) para la gestión de entornos
+- [Conda](https://docs.conda.io/en/latest/) para la gestión de entornos
 
-\- \[Python 3.12\](https://www.python.org/downloads/)
+- [Python 3.12](https://www.python.org/downloads/)
 
-\### Pasos
+### Pasos
 
-1\. \*\*Clonar el repositorio:\*\*
+1. **Clonar el repositorio:**
 
-\`\`\`bash
+   ```bash
 
-git clone https://github.com/lreyesDetecEsteno/testManolo
+   git clone https://github.com/lreyesDetecEsteno/testManolo
 
-cd testManolo
+   cd testManolo 
+```
 
-2\. \*\*Crear el entorno con Conda:\*\*
+2. **Crear el entorno con Conda:**
 
 Utiliza el siguiente comando para crear un entorno llamado testManolo con Python 3.12:
 
-\`\`\`bash
+```bash 
 
 conda create -n testManolo python==3.12
+```
 
-3\. \*\*Activar el entorno:\*\*
+3. **Activar el entorno:**
 
-\`\`\`bash
+    ```bash
 
-conda activate testManolo
+    conda activate testManolo
+```
 
-4\. \*\*Instalar las dependencias:\*\*
+4. **Instalar las dependencias:**
 
 Asegúrate de tener pip actualizado y luego instala las dependencias listadas en requirements.txt:
 
-\`\`\`bash
+    ```bash
 
-pip install --upgrade pip
+    pip install --upgrade pip
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
+```
 
-\## USO
+## USO
 
-1\. \*\*Ejecutar la aplicación\*\*
+1. **Ejecutar la aplicación**
 
-'''bash
+    ```bash
 
-python app.py
+    python app.py
+```
 
-\## 2. Acceder a la aplicación
+## 2. Acceder a la aplicación
 
-Abre tu navegador y dirígete a \[http://127.0.0.1:5000/\](http://127.0.0.1:5000/) para acceder a la interfaz de subida de archivos.
+Abre tu navegador y dirígete a [http://127.0.0.1:5000/](http://127.0.0.1:5000/) para acceder a la interfaz de subida de archivos.
 
-\## 3. Subir archivos
+## 3. Subir archivos
 
-1\. Selecciona un archivo de audio o video.
+1. Selecciona un archivo de audio o video.
 
-2\. Selecciona el archivo JSON con la transcripción.
+2. Selecciona el archivo JSON con la transcripción.
 
-3\. Haz clic en "Subir".
+3. Haz clic en "Subir".
 
-\## 4. Visualizar la transcripción
+## 4. Visualizar la transcripción
 
 Después de subir los archivos, serás redirigido a una página donde podrás ver la transcripción sincronizada con el audio/video.
 
-\# Descripción del JSON
+# Descripción del JSON
 
-\## Claves principales
+## Claves principales
 
-\### \`alternatives\`
+### `alternatives`
 
-\- Lista de alternativas para la palabra o puntuación detectada.
+- Lista de alternativas para la palabra o puntuación detectada.
 
-\### \`confidence\`
+### `confidence`
 
-\- Nivel de confianza en la detección.
+- Nivel de confianza en la detección.
 
-\### \`content\`
+### `content`
 
-\- Contenido de la palabra o puntuación.
+- Contenido de la palabra o puntuación.
 
-\### \`language\`
+### `language`
 
-\- Idioma de la palabra.
+- Idioma de la palabra.
 
-\### \`speaker\`
+### `speaker`
 
-\- Identificador del hablante (e.g., "S1", "S2", "UU").
+- Identificador del hablante (e.g., "S1", "S2", "UU").
 
-\### \`end\_time\`
+### `end_time`
 
-\- Tiempo de finalización de la palabra o puntuación en segundos.
+- Tiempo de finalización de la palabra o puntuación en segundos.
 
-\### \`start\_time\`
+### `start_time`
 
-\- Tiempo de inicio de la palabra o puntuación en segundos.
+- Tiempo de inicio de la palabra o puntuación en segundos.
 
-\### \`type\`
+### `type`
 
-\- Tipo de elemento, puede ser:
+- Tipo de elemento, puede ser:
 
-\- \`word\`
+  - `word`
 
-\- \`punctuation\`
+  - `punctuation`
 
-\## Claves opcionales
+## Claves opcionales
 
-\### \`attaches\_to\`
+### `attaches_to`
 
-\- Indica si la puntuación se adjunta a la palabra anterior.
+- Indica si la puntuación se adjunta a la palabra anterior.
 
-\### \`is\_eos\`
+### `is_eos`
 
-\- Indica si es el final de una oración.
+- Indica si es el final de una oración.
 
-\# Contribución
+# Contribución
 
 ¡Contribuciones son bienvenidas! Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 
-1\. \*\*Fork\*\* el repositorio.
+1. **Fork** el repositorio.
 
-2\. Crea una nueva rama:
+2. Crea una nueva rama:
 
-\`\`\`bash
+    ```bash
 
-git checkout -b feature/nueva-funcionalidad
+    git checkout -b feature/nueva-funcionalidad
 
-\`\`\`
+    ```
 
-3\. Realiza tus cambios y commitea:
+3. Realiza tus cambios y commitea:
 
-\`\`\`bash
+    ```bash
 
-git commit -m "Añadir nueva funcionalidad"
+    git commit -m "Añadir nueva funcionalidad"
 
-\`\`\`
+    ```
 
-4\. Empuja la rama al repositorio remoto:
+4. Empuja la rama al repositorio remoto:
 
-\`\`\`bash
+    ```bash
 
-git push origin feature/nueva-funcionalidad
+    git push origin feature/nueva-funcionalidad
 
-\`\`\`
+    ```
 
-5\. Abre un \*\*Pull Request\*\*.
+5. Abre un **Pull Request**.
 
-\---
+---
 
-\# Licencia
+# Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo \`LICENSE\` para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
-\---
+---
 
-\# Contacto
+# Contacto
 
 Para cualquier consulta o sugerencia, puedes contactarme a través de tu correo electrónico.
